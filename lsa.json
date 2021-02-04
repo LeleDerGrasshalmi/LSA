@@ -183,7 +183,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 559178,
+                            "offset": 559157,
                             "log": "Hat Mesh",
                             "normal": "Parts/Hats/CP_Athena_Hat_M_TeriyakiFish",
                             "swaped": "Parts/Hats/CP_Athena_Hat_M_TeriyakiLele"
