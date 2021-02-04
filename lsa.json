@@ -1,1 +1,418 @@
-{}
+{
+    "status": {
+        "id": "up",
+        "message": "poggus its fixed for v15.20",
+        "version": "0.60",
+        "download": "https://cdn.discordapp.com/attachments/734001358885093464/798278516889092136/Lele_Swapper_v0.6.zip"
+    },
+    "news": {
+        "header": "Fixed for v15.20",
+        "body": "Report any Bug on our Discord! \nUse Code 'GrasshalmLele' to Support us! \n\n~Last Edit 24.12.2020 22:00 UTC"
+    },
+    "rpc": {
+        "tabs": {
+            "patchnotes": "Patch Notes Tab",
+            "settings": "Settings Tab",
+            "v2": "V2 Tab",
+            "14_20": "14.20 Items"
+        },
+        "general": {
+            "bigicon": "swapper_icon",
+            "bigtext": "Download at discord.gg/wdpw5sM",
+            "smallicon": "jumper",
+            "smalltext": "Made by @RealGrasshalm2"
+        }
+    },
+    "icons": {
+        "v2": "https://i.imgur.com/O2ZQf4d.png",
+        "settings": "https://i.imgur.com/wDoerH5.png",
+        "shop_br": "https://i.imgur.com/HEfkpci.png",
+        "close": "https://i.imgur.com/NyMoqiS.png",
+        "minimize": "https://i.imgur.com/Vd15PxA.png",
+        "discord": "https://i.imgur.com/JPjSohn.png",
+        "tiktok": "https://i.imgur.com/NuoRldq.png",
+        "youtube": "https://i.imgur.com/AUrHgq8.png",
+        "instagram": "https://i.imgur.com/V0uBqBv.png",
+        "twitter": "https://i.imgur.com/FT9jc4f.png",
+        "pfeil": "https://i.imgur.com/hX1k0Hp.png",
+        "logo": "https://i.imgur.com/cmL8L2t.png",
+        "paks": "https://cdn.discordapp.com/attachments/734063791754707054/797921050217152522/T_Placeholder_Generic.png"
+    },
+    "strings": {
+        "B995FF0626DDF0AB0AD7EF3839BDDCBB": {
+            "en": "The Chance is 0.00000000001% for a ban \nWe do not assume any liability for bans!",
+            "de": "Die Wahrscheinlichkeit gebannt zu werden beträgt 0,00000000001% \nWir übernehmen keine Haftung für Bans etc."
+        },
+        "7A1920D61156ABC05A60135AEFE8BC67": {
+            "en": "Default",
+            "de": "Standard"
+        },
+        "B9BA865FEC061C9706D2FD7CE49C0CC7": {
+            "en": "Purple",
+            "de": "Lila"
+        },
+        "D382816A3CBEED082C9E216E7392EED1": {
+            "en": "Green",
+            "de": "Grün"
+        },
+        "EE38E4D5DD68C4E440825018D549CB47": {
+            "en": "Red",
+            "de": "Rot"
+        },
+        "FDDB516AB8E5198F1FD56580419550D3": {
+            "en": "Path:",
+            "de": "Pfad:"
+        },
+        "C683510AEEA21D3D9F6505172EF7EEF3": {
+            "en": "Start FN",
+            "de": "Starte FN"
+        },
+        "DA368E282AB05E3CAB0E85AAB334FE0B": {
+            "en": "Close FN",
+            "de": "Schließe FN"
+        },
+        "caf23c8a543fd112779e72f2fdd00d8e": {
+            "en": "Open Paks Folder",
+            "de": "Öffne Paks Ordner"
+        },
+        "920F4A0C5C8B9A0747380CF7C7F0B3C5": {
+            "en": "Convert",
+            "de": "Konvertieren"
+        },
+        "5289BF157522A5CD34676F2777D27048": {
+            "en": "Revert",
+            "de": "Zurück setzen"
+        },
+        "044B2154D24AA8EEFEF5A1B445F4B8A8": {
+            "en": "[LOG]",
+            "de": "[LOG]"
+        },
+        "E9C396DD5F3E68568CBD4B595CBE545D": {
+            "en": "Failed To Update API Cache",
+            "de": "Fehler beim aktualisieren des API Zwischenspeichers"
+        },
+        "624ACA9F126E9CE4B5E04BD1C20B8D83": {
+            "en": "This Tab is currently disabled",
+            "de": "Dieser Tab ist derzeit deaktiviert"
+        },
+        "52BCDAE3F232131EC3BB5EE158E724CD": {
+            "en": "Failed To Locate Pak Path",
+            "de": "Fehler beim finden des Pak Pfades"
+        },
+        "1EE9AA3A5056E8397B16380D035F27E7": {
+            "en": "You have an outdated Swapper Version, please download the newest Version",
+            "de": "Du besitzt eine veraltete Swapper Version, bitte lade die neuste Version runter"
+        },
+        "A2455B9D61DF2D1F9026182C2D47392D": {
+            "en": "Succesfully Loaded in",
+            "de": "Erfolgreich geladen in"
+        }
+    },
+    "v2": {
+        "skins": {
+            "status": "enabled",
+            "items": [{
+                    "name": "Black Shield",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_343_CubeRedKnight/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s2-WindowsClient.ucas",
+                            "offset": 17137950,
+                            "log": "Material",
+                            "normal": "CIcezMale_Commando_BR_Knight_01/RedCube/F",
+                            "swaped": "CIcezMale_Commando_BR_Knight/Swapper/Lele"
+                        }
+                    ]
+                }, {
+                    "name": "Black Shield",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s1-WindowsClient.ucas",
+                            "offset": 45359390,
+                            "log": "Material",
+                            "normal": "CIceKFemle_Cmndo_RedKnight_Winter",
+                            "swaped": "CIceKFemle_Cmndo_RedKnight___Lele"
+                        }
+                    ]
+                }, {
+                    "name": "Black Shield",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_003_RedKnight/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s1-WindowsClient.ucas",
+                            "offset": 46565662,
+                            "log": "Material",
+                            "normal": "CIceJMale_CommandoBR_knightV01",
+                            "swaped": "CIceJMale_Commando_LeleSwapper"
+                        }
+                    ]
+                }, {
+                    "name": "Skully Splitter",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_221_SkullBriteEclipse/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_162_SkullBrite/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s17-WindowsClient.ucas",
+                            "offset": 29201948,
+                            "log": "Material",
+                            "normal": "Skull_BrEclipsMI_b_DENSN__BT_1Rainbow",
+                            "swaped": "Skull_BrEcl_Lele_b_DENSN__BT_1Rainbow"
+                        }
+                    ]
+                }, {
+                    "name": "Caliper",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_345_ModernMilitaryEclipse/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_079_ModernMilitary/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s17-WindowsClient.ucas",
+                            "offset": 19469894,
+                            "log": "Material",
+                            "normal": "L6_N_uMelee/Pickaxe_Modrn_Miliary_EclipsMI_P_DENS",
+                            "swaped": "L6_N_uMelee/Pickaxe_LELE__Miliary_EclipsMI_P_DENS"
+                        }
+                    ]
+                }, {
+                    "name": "Fishstick (No Hat - Meme)",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_315_Athena_Commando_M_TeriyakiFish/icon.png",
+                    "swappedIcon": "https://i.imgur.com/pveooLW.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s13-WindowsClient.ucas",
+                            "offset": 14639149,
+                            "log": "Hat Mesh",
+                            "normal": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TeriyakiFish/Materialed_Heshes/Parts_",
+                            "swaped": "/Game/Characters/Player/Male/Medium/Bodies/Lele/Swapper/M_MED_TeriyakiFish/Hat/Invalid"
+                        }
+                    ]
+                }, {
+                    "name": "OG Recruit - Spitfire",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_011_Athena_Commando_M/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_006_Athena_Commando_M_Default/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s13-WindowsClient.ucas",
+                            "offset": 3779522,
+                            "log": "Body Material",
+                            "normal": "]NebulaTV_02_TV02",
+                            "swaped": "]NebulaTV_LELE_02"
+                        }
+                    ]
+                }, {
+                    "name": "Sunbird",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_437_Athena_Commando_F_AztecEclipse/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_359_Athena_Commando_F_Aztec/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 255410359,
+                            "log": "Hair Material",
+                            "normal": "cCharacters/Player/Female/Medium/BodFztec_Eclipse/ed",
+                            "swaped": "cCharacters/Player/Female/Medium/BodFztec_Lele_se/ed"
+                        }, {
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 255367657,
+                            "log": "FaceAcc Material",
+                            "normal": "fPlayer/Female/Medium/BodAztec_Eclipsed_FacAcc",
+                            "swaped": "fPlayer/Female/Medium/BodAztec_Lele_sed_FacAcc"
+                        }, {
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 255320554,
+                            "log": "Body Material",
+                            "normal": "cPlayer/Female/Medium/BodAztec_Eclipsed_Body",
+                            "swaped": "cPlayer/Female/Medium/BodAztec_Lele_sed_Body"
+                        }
+                    ]
+                }, {
+                    "name": "Omen",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_517_Athena_Commando_M_DarkEagleFire/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_141_Athena_Commando_M_DarkEagle/icon.png",
+                    "note": "Thx to Wslt (Galaxy Swapper owner for FX remove)",
+                    "swaps": [{
+                            "file": "pakchunk10_s10-WindowsClient.ucas",
+                            "offset": 25627375,
+                            "log": "Body Material",
+                            "normal": "iEagleFir_",
+                            "swaped": "iEagLeler_"
+                        }, {
+                            "file": "pakchunk10_s10-WindowsClient.ucas",
+                            "offset": 25627375,
+                            "log": "Head Material",
+                            "normal": "iEagleFir_",
+                            "swaped": "iEagLeler_"
+                        }, {
+                            "file": "pakchunk10_s4-WindowsClient.ucas",
+                            "offset": 146161883,
+                            "log": "FX",
+                            "normal": "Effects/Fort_Parts//CCPM",
+                            "swaped": "Effects/Fort_Parts//Lele"
+                        }
+                    ]
+                }, {
+                    "name": "Brite Gunner",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_782_Athena_Commando_M_BrightGunnerEclipse/icon.png",
+                    "swappedIcon": "https://i.imgur.com/7fPHgWD.png",
+                    "note": "The Hair & Head is not perfect!",
+                    "swaps": [{
+                            "file": "pakchunk10_s10-WindowsClient.ucas",
+                            "offset": 12657370,
+                            "log": "Body Material",
+                            "normal": "`_Commando2lr_Gunne_Eclipsed",
+                            "swaped": "`_Commando2lr_Gunne_Lele_sed"
+                        }, {
+                            "file": "pakchunk10_s13-WindowsClient.ucas",
+                            "offset": 29883365,
+                            "log": "Head Material",
+                            "normal": "pBLKSydneyBreGunner",
+                            "swaped": "pBLKSydneyBreGGLele"
+                        }
+                    ]
+                }, {
+                    "name": "Wildcard & The Reaper Mix",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_511_Athena_Commando_M_CubePaintWildCard/icon.png",
+                    "swappedIcon": "https://i.imgur.com/vrUtgvw.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s10-WindowsClient.ucas",
+                            "offset": 4383421,
+                            "log": "Body Material",
+                            "normal": "oMAssassinWildCard",
+                            "swaped": "oMAssassinWil_Lele"
+                        }, {
+                            "file": "pakchunk10_s2-WindowsClient.ucas",
+                            "offset": 41220404,
+                            "log": "Head Material",
+                            "normal": "iDiamond/SkinWildCardCube/",
+                            "swaped": "iDiamond/SkinWildCar_Lele/"
+                        }
+                    ]
+                }, {
+                    "name": "Hush",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_786_Athena_Commando_F_CavalryBandit_Ghost/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_616_Athena_Commando_F_CavalryBandit/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s6-WindowsClient.ucas",
+                            "offset": 5706217,
+                            "log": "Body Material",
+                            "normal": "lPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___Body",
+                            "swaped": "lPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___Lele"
+                        }, {
+                            "file": "pakchunk10_s6-WindowsClient.ucas",
+                            "offset": 5755371,
+                            "log": "FaceAcc Material",
+                            "normal": "oPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___aceAcc",
+                            "swaped": "oPlayer/Female/Medium/BodavalryBandit/Skins/Ghost_____Lele"
+                        }
+                    ]
+                }, {
+                    "name": "Shogun",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_257_Athena_Commando_M_SamuraiUltra/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s12-WindowsClient.ucas",
+                            "offset": 30120793,
+                            "log": "Body Material",
+                            "normal": "amind_Twisted_MNxSamuraiUltrarrupInst",
+                            "swaped": "amind_Twisted_MNxSamuraiUltrarrupLele"
+                        }, {
+                            "file": "pakchunk10_s12-WindowsClient.ucas",
+                            "offset": 30163801,
+                            "log": "Hair Material",
+                            "normal": "amind_Twisted_MNxSamuraiUltrarrup_Hair_Inst",
+                            "swaped": "amind_Twisted_MNxSamuraiUltrarrup_Hair_Lele"
+                        }, {
+                            "file": "pakchunk10_s12-WindowsClient.ucas",
+                            "offset": 30217049,
+                            "log": "Head Material",
+                            "normal": "amind_Twisted_MNySamuraiUltrarrup_Head_Inst1",
+                            "swaped": "amind_Twisted_MNySamuraiUltrarrup_Head_Lele1"
+                        }
+                    ]
+                }, {
+                    "name": "Arachne",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_852_Athena_Commando_F_BlackWidowCorrupt/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_249_Athena_Commando_F_BlackWidow/icon.png",
+                    "note": "If you don't have the virus Style on 0% the Head is bugged (in virus texture)",
+                    "swaps": [{
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 259461611,
+                            "log": "Body Material",
+                            "normal": "pPlayer/Female/Medium/Bodwidow/Skins/Corrupted_",
+                            "swaped": "pPlayer/Female/Medium/Bodwidow/Skin/LeleSwapper"
+                        }, {
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 259545578,
+                            "log": "Hat Material",
+                            "normal": "tPlayer/Female/Medium/Bodwidow/Skins/Corrupted_Hat_",
+                            "swaped": "tPlayer/New/Medium/Bodwidow_Virus/Skins/LeleSwapper"
+                        }, {
+                            "file": "pakchunk10_s5-WindowsClient.ucas",
+                            "offset": 259498475,
+                            "log": "Hair Material",
+                            "normal": "uPlayer/Female/Medium/Bodwidow/Skins/Corrupted_Hair_",
+                            "swaped": "uPlayer/Female/Medium/Black_Widow/Virus/LeleSwapper_"
+                        }
+                    ]
+                }, {
+                    "name": "Insight",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_853_Athena_Commando_F_SniperHoodCorrupt/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/CID_276_Athena_Commando_F_SniperHood/icon.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s8-WindowsClient.ucas",
+                            "offset": 5210742,
+                            "log": "Body Material",
+                            "normal": "SniperHoodrruptM_ViruInth_cD",
+                            "swaped": "SniperHoodrruptM_LeleSwapper"
+                        }, {
+                            "file": "pakchunk10_s8-WindowsClient.ucas",
+                            "offset": 5155446,
+                            "log": "Head Material",
+                            "normal": "SniperHoodrrupt_Viru_Head_Insth_c_Face_D",
+                            "swaped": "SniperHoodcorrupt_Virus_Head_LeleSwapper"
+                        }
+                    ]
+                }, {
+                    "name": "Renegade Raider (Body not perfect)",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/cid_970_athena_commando_f_renegaderaiderholiday/icon.png",
+                    "swappedIcon": "https://i.imgur.com/5Jm5lJI.png",
+                    "note": "",
+                    "swaps": [{
+                            "file": "pakchunk10_s22-WindowsClient.ucas",
+                            "offset": 276873848,
+                            "log": "Hat Material",
+                            "normal": "unegade_RaidolidaMF",
+                            "swaped": "uneLele_RaidolidaMF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "paks": {
+            "status": "enabled",
+            "fileName": "pakchunk56-WindowsClient",
+            "sig": "https://cdn.discordapp.com/attachments/734063791754707054/797610811576418324/pakchunk56-WindowsClient.sig",
+            "entries": [{
+                    "name": "Holo Chic",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/cid_571_athena_commando_f_sheath/variants/progressive/stage2.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/734063791754707054/797927939718512650/-.-.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/734063791754707054/797930860912705586/pakchunk56-WindowsClient.pak"
+                },
+				{
+                    "name": "test",
+                    "defaultIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806922639183708180/unknown.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806921326417149962/unknown.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/806898615137075270/806921571733995550/pakchunk302-WindowsClient.pak"
+                }
+            ]
+        }
+    }
+}
