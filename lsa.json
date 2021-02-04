@@ -118,7 +118,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s2-WindowsClient.ucas",
-                            "offset": 17137950,
+                            "offset": 16836894,
                             "log": "Material",
                             "normal": "CIcezMale_Commando_BR_Knight_01/RedCube/F",
                             "swaped": "CIcezMale_Commando_BR_Knight/Swapper/Lele"
@@ -131,7 +131,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s1-WindowsClient.ucas",
-                            "offset": 45359390,
+                            "offset": 44740894,
                             "log": "Material",
                             "normal": "CIceKFemle_Cmndo_RedKnight_Winter",
                             "swaped": "CIceKFemle_Cmndo_RedKnight___Lele"
@@ -144,7 +144,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s1-WindowsClient.ucas",
-                            "offset": 46565662,
+                            "offset": 45947166,
                             "log": "Material",
                             "normal": "CIceJMale_CommandoBR_knightV01",
                             "swaped": "CIceJMale_Commando_LeleSwapper"
@@ -156,8 +156,8 @@
                     "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_162_SkullBrite/icon.png",
                     "note": "",
                     "swaps": [{
-                            "file": "pakchunk10_s17-WindowsClient.ucas",
-                            "offset": 29201948,
+                            "file": "pakchunk10_s16-WindowsClient.ucas",
+                            "offset": 305806868,
                             "log": "Material",
                             "normal": "Skull_BrEclipsMI_b_DENSN__BT_1Rainbow",
                             "swaped": "Skull_BrEcl_Lele_b_DENSN__BT_1Rainbow"
@@ -169,8 +169,8 @@
                     "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_079_ModernMilitary/icon.png",
                     "note": "",
                     "swaps": [{
-                            "file": "pakchunk10_s17-WindowsClient.ucas",
-                            "offset": 19469894,
+                            "file": "pakchunk10_s16-WindowsClient.ucas",
+                            "offset": 296078912,
                             "log": "Material",
                             "normal": "L6_N_uMelee/Pickaxe_Modrn_Miliary_EclipsMI_P_DENS",
                             "swaped": "L6_N_uMelee/Pickaxe_LELE__Miliary_EclipsMI_P_DENS"
@@ -183,7 +183,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s13-WindowsClient.ucas",
-                            "offset": 14639149,
+                            "offset": 13553709,
                             "log": "Hat Mesh",
                             "normal": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TeriyakiFish/Materialed_Heshes/Parts_",
                             "swaped": "/Game/Characters/Player/Male/Medium/Bodies/Lele/Swapper/M_MED_TeriyakiFish/Hat/Invalid"
@@ -196,7 +196,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s13-WindowsClient.ucas",
-                            "offset": 3779522,
+                            "offset": 2689986,
                             "log": "Body Material",
                             "normal": "]NebulaTV_02_TV02",
                             "swaped": "]NebulaTV_LELE_02"
@@ -209,19 +209,19 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 255410359,
+                            "offset": 218319031,
                             "log": "Hair Material",
                             "normal": "cCharacters/Player/Female/Medium/BodFztec_Eclipse/ed",
                             "swaped": "cCharacters/Player/Female/Medium/BodFztec_Lele_se/ed"
                         }, {
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 255367657,
+                            "offset": 218276329,
                             "log": "FaceAcc Material",
                             "normal": "fPlayer/Female/Medium/BodAztec_Eclipsed_FacAcc",
                             "swaped": "fPlayer/Female/Medium/BodAztec_Lele_sed_FacAcc"
                         }, {
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 255320554,
+                            "offset": 218229226,
                             "log": "Body Material",
                             "normal": "cPlayer/Female/Medium/BodAztec_Eclipsed_Body",
                             "swaped": "cPlayer/Female/Medium/BodAztec_Lele_sed_Body"
@@ -234,19 +234,19 @@
                     "note": "Thx to Wslt (Galaxy Swapper owner for FX remove)",
                     "swaps": [{
                             "file": "pakchunk10_s10-WindowsClient.ucas",
-                            "offset": 25627375,
+                            "offset": 23810801,
                             "log": "Body Material",
                             "normal": "iEagleFir_",
                             "swaped": "iEagLeler_"
                         }, {
                             "file": "pakchunk10_s10-WindowsClient.ucas",
-                            "offset": 25627375,
+                            "offset": 23853807,
                             "log": "Head Material",
                             "normal": "iEagleFir_",
                             "swaped": "iEagLeler_"
                         }, {
                             "file": "pakchunk10_s4-WindowsClient.ucas",
-                            "offset": 146161883,
+                            "offset": 135176411,
                             "log": "FX",
                             "normal": "Effects/Fort_Parts//CCPM",
                             "swaped": "Effects/Fort_Parts//Lele"
@@ -259,13 +259,13 @@
                     "note": "The Hair & Head is not perfect!",
                     "swaps": [{
                             "file": "pakchunk10_s10-WindowsClient.ucas",
-                            "offset": 12657370,
+                            "offset": 10887898,
                             "log": "Body Material",
                             "normal": "`_Commando2lr_Gunne_Eclipsed",
                             "swaped": "`_Commando2lr_Gunne_Lele_sed"
                         }, {
                             "file": "pakchunk10_s13-WindowsClient.ucas",
-                            "offset": 29883365,
+                            "offset": 28793829,
                             "log": "Head Material",
                             "normal": "pBLKSydneyBreGunner",
                             "swaped": "pBLKSydneyBreGGLele"
@@ -278,13 +278,13 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s10-WindowsClient.ucas",
-                            "offset": 4383421,
+                            "offset": 2618045,
                             "log": "Body Material",
                             "normal": "oMAssassinWildCard",
                             "swaped": "oMAssassinWil_Lele"
                         }, {
                             "file": "pakchunk10_s2-WindowsClient.ucas",
-                            "offset": 41220404,
+                            "offset": 40886580,
                             "log": "Head Material",
                             "normal": "iDiamond/SkinWildCardCube/",
                             "swaped": "iDiamond/SkinWildCar_Lele/"
@@ -297,13 +297,13 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s6-WindowsClient.ucas",
-                            "offset": 5706217,
+                            "offset": 3785193,
                             "log": "Body Material",
                             "normal": "lPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___Body",
                             "swaped": "lPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___Lele"
                         }, {
                             "file": "pakchunk10_s6-WindowsClient.ucas",
-                            "offset": 5755371,
+                            "offset": 3834347,
                             "log": "FaceAcc Material",
                             "normal": "oPlayer/Female/Medium/BodavalryBandit/Skins/Ghost___aceAcc",
                             "swaped": "oPlayer/Female/Medium/BodavalryBandit/Skins/Ghost_____Lele"
@@ -316,19 +316,19 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s12-WindowsClient.ucas",
-                            "offset": 30120793,
+                            "offset": 26018650,
                             "log": "Body Material",
                             "normal": "amind_Twisted_MNxSamuraiUltrarrupInst",
                             "swaped": "amind_Twisted_MNxSamuraiUltrarrupLele"
                         }, {
                             "file": "pakchunk10_s12-WindowsClient.ucas",
-                            "offset": 30163801,
+                            "offset": 26061657,
                             "log": "Hair Material",
                             "normal": "amind_Twisted_MNxSamuraiUltrarrup_Hair_Inst",
                             "swaped": "amind_Twisted_MNxSamuraiUltrarrup_Hair_Lele"
                         }, {
                             "file": "pakchunk10_s12-WindowsClient.ucas",
-                            "offset": 30217049,
+                            "offset": 26114905,
                             "log": "Head Material",
                             "normal": "amind_Twisted_MNySamuraiUltrarrup_Head_Inst1",
                             "swaped": "amind_Twisted_MNySamuraiUltrarrup_Head_Lele1"
@@ -341,19 +341,19 @@
                     "note": "If you don't have the virus Style on 0% the Head is bugged (in virus texture)",
                     "swaps": [{
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 259461611,
+                            "offset": 222364139,
                             "log": "Body Material",
                             "normal": "pPlayer/Female/Medium/Bodwidow/Skins/Corrupted_",
                             "swaped": "pPlayer/Female/Medium/Bodwidow/Skin/LeleSwapper"
                         }, {
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 259545578,
+                            "offset": 222448107,
                             "log": "Hat Material",
                             "normal": "tPlayer/Female/Medium/Bodwidow/Skins/Corrupted_Hat_",
                             "swaped": "tPlayer/New/Medium/Bodwidow_Virus/Skins/LeleSwapper"
                         }, {
                             "file": "pakchunk10_s5-WindowsClient.ucas",
-                            "offset": 259498475,
+                            "offset": 222401003,
                             "log": "Hair Material",
                             "normal": "uPlayer/Female/Medium/Bodwidow/Skins/Corrupted_Hair_",
                             "swaped": "uPlayer/Female/Medium/Black_Widow/Virus/LeleSwapper_"
@@ -366,13 +366,13 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s8-WindowsClient.ucas",
-                            "offset": 5210742,
+                            "offset": 2798198,
                             "log": "Body Material",
                             "normal": "SniperHoodrruptM_ViruInth_cD",
                             "swaped": "SniperHoodrruptM_LeleSwapper"
                         }, {
                             "file": "pakchunk10_s8-WindowsClient.ucas",
-                            "offset": 5155446,
+                            "offset": 2742902,
                             "log": "Head Material",
                             "normal": "SniperHoodrrupt_Viru_Head_Insth_c_Face_D",
                             "swaped": "SniperHoodcorrupt_Virus_Head_LeleSwapper"
@@ -385,7 +385,7 @@
                     "note": "",
                     "swaps": [{
                             "file": "pakchunk10_s22-WindowsClient.ucas",
-                            "offset": 276873848,
+                            "offset": 86202999,
                             "log": "Hat Material",
                             "normal": "unegade_RaidolidaMF",
                             "swaped": "uneLele_RaidolidaMF"
@@ -404,8 +404,7 @@
                     "swappedIcon": "https://cdn.discordapp.com/attachments/734063791754707054/797927939718512650/-.-.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/797930860912705586/pakchunk56-WindowsClient.pak"
-                },
-				{
+                }, {
                     "name": "test",
                     "defaultIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806922639183708180/unknown.png",
                     "swappedIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806921326417149962/unknown.png",
