@@ -118,17 +118,25 @@
             "fileName": "pakchunk56-WindowsClient",
             "sig": "https://cdn.discordapp.com/attachments/734063791754707054/797610811576418324/pakchunk56-WindowsClient.sig",
             "entries": [{
-                    "name": "texxsdxt1",
-                    "defaultIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806922639183708180/unknown.png",
-                    "swappedIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806921326417149962/unknown.png",
-                    "note": "NULL",
-                    "pak": "https://cdn.discordapp.com/attachments/806898615137075270/806921571733995550/pakchunk302-WindowsClient.pak"
-                }, {
-                    "name": "GalactuX Backpack",
+                    "name": "Galactus Backpack",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/bid_578_sportsfashion/icon.png",
                     "swappedIcon": "https://i.imgur.com/9zMFYRz.png",
-                    "note": "This Pak is over 100MB so it will take some time to download!",
+                    "note": "This Pak is over 100MB so it will take much time to download!",
                     "pak": "http://download1589.mediafire.com/58b0fgd5b7ig/uccm7w81305y9sk/pakchunk56-WindowsClient.pak"
+                },
+				{
+                    "name": "Raider's Revenge Backpack",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_513_GraffitiAssassin/icon.png",
+                    "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_Lockjaw/icon.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807363987296878633/pakchunk301-WindowsClient.pak"
+                },
+				{
+                    "name": "Galaxy Haze (Both Styles)",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_586_Athena_Commando_F_PunkDevil/icon.png",
+                    "swappedIcon": "https://i.imgur.com/fZP95ao.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807365564711305277/pakchunk56-WindowsClient.pak"
                 }
             ]
         }
