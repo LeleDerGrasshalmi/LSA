@@ -112,7 +112,7 @@
         "skins": {
             "status": "disabled",
             "items": []
-		},
+        },
         "paks": {
             "status": "enabled",
             "fileName": "pakchunk56-WindowsClient",
@@ -123,8 +123,7 @@
                     "swappedIcon": "https://cdn.discordapp.com/attachments/806898615137075270/806921326417149962/unknown.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/806898615137075270/806921571733995550/pakchunk302-WindowsClient.pak"
-                },
-				{
+                }, {
                     "name": "Galactus Backpack",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/bid_578_sportsfashion/icon.png",
                     "swappedIcon": "https://i.imgur.com/9zMFYRz.png",
