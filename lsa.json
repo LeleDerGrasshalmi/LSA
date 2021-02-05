@@ -1,7 +1,7 @@
 {
     "status": {
         "id": "up",
-        "message": "x",
+        "message": "If u see this, use code GrasshalmLele #ad",
         "version": "0.61",
         "download": "https://cdn.discordapp.com/attachments/734001358885093464/807375891327483934/Lele_Swapper_v0.61.exe"
     },
@@ -41,7 +41,7 @@
     "strings": {
         "B995FF0626DDF0AB0AD7EF3839BDDCBB": {
             "en": "The Chance is 0.00000000001% for a ban \nWe do not assume any liability for bans!",
-            "de": "Die Wahrscheinlichkeit gebannt zu werden beträgt 0,00000000001% \nWir übernehmen keine Haftung für Bans etc."
+            "de": "Die Wahrscheinlichkeit gebannt zu werden beträgt 0,00000000001% \nWir übernehmen keine Haftung für Bans"
         },
         "7A1920D61156ABC05A60135AEFE8BC67": {
             "en": "Default",
