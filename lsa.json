@@ -1,9 +1,9 @@
 {
     "status": {
         "id": "up",
-        "message": "If u see this, use code GrasshalmLele #ad",
+        "message": "if u see this, u are lele/wslt or a skid",
         "version": "0.61",
-        "download": "https://cdn.discordapp.com/attachments/734001358885093464/807375891327483934/Lele_Swapper_v0.61.exe"
+        "download": "https://cdn.discordapp.com/attachments/734001358885093464/798278516889092136/Lele_Swapper_v0.6.zip"
     },
     "news": {
         "header": "Lele Swapper v0.61 out now!",
@@ -41,7 +41,7 @@
     "strings": {
         "B995FF0626DDF0AB0AD7EF3839BDDCBB": {
             "en": "The Chance is 0.00000000001% for a ban \nWe do not assume any liability for bans!",
-            "de": "Die Wahrscheinlichkeit gebannt zu werden beträgt 0,00000000001% \nWir übernehmen keine Haftung für Bans"
+            "de": "Die Wahrscheinlichkeit gebannt zu werden beträgt 0,00000000001% \nWir übernehmen keine Haftung für Bans etc."
         },
         "7A1920D61156ABC05A60135AEFE8BC67": {
             "en": "Default",
@@ -137,6 +137,13 @@
                     "swappedIcon": "https://i.imgur.com/fZP95ao.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807365564711305277/pakchunk56-WindowsClient.pak"
+                },
+				{
+                    "name": "Custom Haze",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_586_Athena_Commando_F_PunkDevil/icon.png",
+                    "swappedIcon": "https://i.imgur.com/a2y9h26.png",
+                    "note": "Created by EatherGhost#2557",
+                    "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807730034360975390/pakchunk301-WindowsClient.pak"
                 }
             ]
         }
