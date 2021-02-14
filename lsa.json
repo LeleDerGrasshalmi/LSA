@@ -6,7 +6,7 @@
         "download": "https://cdn.discordapp.com/attachments/734001358885093464/798278516889092136/Lele_Swapper_v0.6.zip"
     },
     "news": {
-        "header": "Lele Swapper v0.61 out now",
+        "header": "Lele Swapper v0.61 out now!",
         "body": "Report any Bug on our Discord! \nUse Code 'GrasshalmLele' to Support us! \n\n~Last Edit 04.02.2021 22:00 UTC"
     },
     "rpc": {
@@ -123,27 +123,30 @@
                     "swappedIcon": "https://i.imgur.com/9zMFYRz.png",
                     "note": "This Pak is over 100MB so it will take much time to download!",
                     "pak": "http://download1589.mediafire.com/58b0fgd5b7ig/uccm7w81305y9sk/pakchunk56-WindowsClient.pak"
-                },
-				{
+                }, {
                     "name": "Raider's Revenge Backpack",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_513_GraffitiAssassin/icon.png",
                     "swappedIcon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_Lockjaw/icon.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807363987296878633/pakchunk301-WindowsClient.pak"
-                },
-				{
+                }, {
                     "name": "Galaxy Haze (Both Styles)",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_586_Athena_Commando_F_PunkDevil/icon.png",
                     "swappedIcon": "https://i.imgur.com/fZP95ao.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807365564711305277/pakchunk56-WindowsClient.pak"
-                },
-				{
+                }, {
                     "name": "Custom Haze",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_586_Athena_Commando_F_PunkDevil/icon.png",
                     "swappedIcon": "https://i.imgur.com/a2y9h26.png",
                     "note": "Created by EatherGhost#2557",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/807730034360975390/pakchunk301-WindowsClient.pak"
+                }, {
+                    "name": "Galaxy Ikonik",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_313_Athena_Commando_M_KpopFashion/icon.png",
+                    "swappedIcon": "https://i.imgur.com/Qv6TBxs.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/734063791754707054/810613943956537367/pakchunk56-WindowsClient.pak"
                 }
             ]
         }
