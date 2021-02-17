@@ -147,6 +147,30 @@
                     "swappedIcon": "https://i.imgur.com/Qv6TBxs.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/734063791754707054/810613943956537367/pakchunk56-WindowsClient.pak"
+                }, {
+                    "name": "Razer Ikonik",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_313_Athena_Commando_M_KpopFashion/icon.png",
+                    "swappedIcon": "https://i.imgur.com/hnHBr8Z.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811697587056672888/RazerIkonik.pak"
+                }, {
+                    "name": "Galaxy Reaper",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_084_Athena_Commando_M_Assassin/icon.png",
+                    "swappedIcon": "https://i.imgur.com/yVXD2PE.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811694197765177414/ReaperGalaxy.pak"
+                }, {
+                    "name": "Green/Blue Wonder",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_434_Athena_Commando_F_StealthHonor/icon.png",
+                    "swappedIcon": "https://i.imgur.com/gAUdDDG.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811699812936318996/GreenWonder.pak"
+                }, {
+                    "name": "Versa Bundle",
+                    "defaultIcon": "https://i.imgur.com/vyCry0e.png",
+                    "swappedIcon": "https://i.imgur.com/ECLHdzi.png",
+                    "note": "Versa(Red) -> Versa(Green) \nVersa(Blue) -> Versa(Purple)",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811703111235272764/VersaBundle.pak"
                 }
             ]
         }
