@@ -6,8 +6,8 @@
         "download": "https://cdn.discordapp.com/attachments/734001358885093464/798278516889092136/Lele_Swapper_v0.6.zip"
     },
     "news": {
-        "header": "Lele Swapper v0.61 out now!",
-        "body": "Report any Bug on our Discord! \nUse Code 'GrasshalmLele' to Support us! \n\n~Last Edit 04.02.2021 22:00 UTC"
+        "header": "New Items",
+        "body": "Report any Bug on our Discord! \nUse Code 'GrasshalmLele' to Support us! \n\n~Last Edit 27.02.2021 11:18 UTC"
     },
     "rpc": {
         "tabs": {
@@ -122,7 +122,7 @@
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/bid_578_sportsfashion/icon.png",
                     "swappedIcon": "https://i.imgur.com/9zMFYRz.png",
                     "note": "This Pak is over 100MB so it will take much time to download!",
-                    "pak": "http://download1589.mediafire.com/58b0fgd5b7ig/uccm7w81305y9sk/pakchunk56-WindowsClient.pak"
+                    "pak": "http://download1336.mediafire.com/py0vlupl6xcg/c61kms5hbaz96t7/pakchunk56-WindowsClient.pak"
                 }, {
                     "name": "Raider's Revenge Backpack",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/BID_513_GraffitiAssassin/icon.png",
@@ -153,24 +153,69 @@
                     "swappedIcon": "https://i.imgur.com/hnHBr8Z.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811697587056672888/RazerIkonik.pak"
-                }, {
+                },
+				{
+                    "name": "Discord Ikonik",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_313_Athena_Commando_M_KpopFashion/icon.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/814966788172546078/discord_ikonik.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/814966838446260224/Ikonik-Discord.pak"
+                },
+				{
                     "name": "Galaxy Reaper",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_084_Athena_Commando_M_Assassin/icon.png",
                     "swappedIcon": "https://i.imgur.com/yVXD2PE.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811694197765177414/ReaperGalaxy.pak"
-                }, {
+                },
+				{
+                    "name": "White Reaper",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_084_Athena_Commando_M_Assassin/icon.png",
+                    "swappedIcon": "https://i.imgur.com/ph9Bt9B.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/814233963031429250/WhiteReaper.pak"
+                },
+				{
                     "name": "Green/Blue Wonder",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_434_Athena_Commando_F_StealthHonor/icon.png",
                     "swappedIcon": "https://i.imgur.com/gAUdDDG.png",
                     "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811699812936318996/GreenWonder.pak"
-                }, {
+                }, 
+				{
                     "name": "Versa Bundle",
                     "defaultIcon": "https://i.imgur.com/vyCry0e.png",
                     "swappedIcon": "https://i.imgur.com/ECLHdzi.png",
                     "note": "Versa(Red) -> Versa(Green) \nVersa(Blue) -> Versa(Purple)",
                     "pak": "https://cdn.discordapp.com/attachments/811694167503667212/811703111235272764/VersaBundle.pak"
+                },
+				{
+                    "name": "Purple Kyra",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_806_Athena_Commando_F_GreenJacket/icon.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/814982650019709019/kyra_purple.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/814982681745555576/Kyra-Purple.pak"
+                },
+				{
+                    "name": "Lynx Custom Colors",
+                    "defaultIcon": "https://cdn.discordapp.com/attachments/811694167503667212/815166572833669120/lynx-bundle_default.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/815166583546183720/lynx-bundle.png",
+                    "note": "",
+                    "pak": "http://download1084.mediafire.com/pxbmvjrv7jbg/4jnlhpzmfzt8ztv/lynx-colors.pak"
+                },
+				{
+                    "name": "Pink Iris",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_674_Athena_Commando_F_HoodieBandit/icon.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/815173793545846794/iris-pingworldcup-hood-L.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/815173865902702622/iris-purpleworldcup.pak"
+                },
+				{
+                    "name": "Cyan Ruby",
+                    "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_527_Athena_Commando_F_StreetFashionRed/icon.png",
+                    "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/815175518580113428/ruby-lightblue.png",
+                    "note": "",
+                    "pak": "https://cdn.discordapp.com/attachments/811694167503667212/815175548661137428/ruby-lightblue.pak"
                 }
             ]
         }
