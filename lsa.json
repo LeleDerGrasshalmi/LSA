@@ -212,9 +212,10 @@
                 },
 				{
                     "name": "Cyan Ruby",
+	            "note": "",
+	            "type": "1",
                     "defaultIcon": "https://fortnite-api.com/images/cosmetics/br/CID_527_Athena_Commando_F_StreetFashionRed/icon.png",
                     "swappedIcon": "https://cdn.discordapp.com/attachments/811694167503667212/815175518580113428/ruby-lightblue.png",
-                    "note": "",
                     "pak": "https://cdn.discordapp.com/attachments/811694167503667212/815175548661137428/ruby-lightblue.pak"
                 }
             ]
