@@ -1,9 +1,9 @@
 {
     "status": {
         "id": "down",
-        "message": "v0.7 is out pog",
-        "version": "0.7.0",
-        "download": "https://cdn.discordapp.com/attachments/734063791754707054/825822129915297792/Lele_Swapper_v0.7.0.exe"
+        "message": "v0.7.1 is out",
+        "version": "0.7.1",
+        "download": "https://cdn.discordapp.com/attachments/734001358885093464/827304064647692378/v0.7.1.zip"
     },
     "news": {
         "header": "",
@@ -23,31 +23,9 @@
             "smalltext": "Made by @RealGrasshalm2"
         }
     },
-    "icons": {
-        "v2": "https://i.imgur.com/O2ZQf4d.png",
-        "settings": "https://i.imgur.com/wDoerH5.png",
-        "shop_br": "https://i.imgur.com/HEfkpci.png",
-        "close": "https://i.imgur.com/NyMoqiS.png",
-        "minimize": "https://i.imgur.com/Vd15PxA.png",
-        "discord": "https://i.imgur.com/JPjSohn.png",
-        "tiktok": "https://i.imgur.com/NuoRldq.png",
-        "youtube": "https://i.imgur.com/AUrHgq8.png",
-        "instagram": "https://i.imgur.com/V0uBqBv.png",
-        "twitter": "https://i.imgur.com/FT9jc4f.png",
-        "pfeil": "https://i.imgur.com/hX1k0Hp.png",
-        "logo": "https://i.imgur.com/cmL8L2t.png",
-        "paks": "https://cdn.discordapp.com/attachments/734063791754707054/797921050217152522/T_Placeholder_Generic.png"
-    },
+    "icons": {},
     "v2": {
-        "skins": {
-            "status": "disabled",
-            "items": []
-        },
-        "paks": {
-            "status": "disabled",
-            "fileName": "pakchunk56-WindowsClient",
-            "sig": "https://cdn.discordapp.com/attachments/734063791754707054/797610811576418324/pakchunk56-WindowsClient.sig",
-            "entries": []
-        }
+        "skins": {},
+        "paks": {}
     }
 }
